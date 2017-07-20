@@ -19,5 +19,5 @@ npm install
 
 ```bash
 geth --fast --cache=512 --rpc
-node index.js
+node balance.js
 ```
